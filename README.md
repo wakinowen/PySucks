@@ -1,0 +1,2 @@
+# PySucks
+Python Sucks
